@@ -52,7 +52,7 @@ class SimpleMapReduce(object):
         chunksize=1
           La porci�n de los datos de entrada a mano para cada trabajador. Esta
            se puede usar para ajustar el rendimiento durante la fase de mapeo.
-          El número de tareas realizadas cada vez, el valor de la experiencia.
+          El numero de tareas realizadas cada vez, el valor de la experiencia.
         
         itertools.chain:
            Concatenar objetos iterables para formar un nuevo iterador grande.
